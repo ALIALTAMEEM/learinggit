@@ -1,7 +1,0 @@
-Hello From Java 
-I am Testing my project
-
-
-I am learning maven
-
-Do not forgit to study 
